@@ -9,5 +9,4 @@ Necessary packages:
 - Keras
 - Keras-contrib: Installation based on instructions at https://github.com/keras-team/keras-contrib
 
-Run following command to run code file: for example BLSTM_CRF_model.py:
- python BLSTM_CRF_model.py -d english -c yes
+Run following command to run code file: for example BLSTM_CRF_model.py:  python BLSTM_CRF_model.py -d english -c yes
